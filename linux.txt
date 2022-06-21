@@ -1,0 +1,23 @@
+- Create a file, named man_ls.txt under MAN_PAGES folder, in EXERCISES directory, consists of the
+man page of the ls command (hint: use redirection).
+- Create the similar man pages for the commands:
+man, info, pwd, mkdir, rmdir, rm, cp, mv, cat, echo …
+- Create a file, named:
+this is a test file.txt
+- Create multiple successive files with one command.
+file0.txt … file100.txt
+- Create multiple successive folders with one command.
+foldera … folderz
+- Delete files from file0.txt to file9.txt with one command (hint: use a wildcard).
+- Delete all the files and folders in the current directory with a wildcard character.
+Exercises
+- Show all the commands you’ve run.
+- Clear the history of your commands.
+- Clear the screen (try different methods).
+- Print your current working directory to “pwd.txt” file.
+- Create a file which consists the contents of your current folder in detail (hint: think simple, use prior
+knowledge).
+Homework
+● What is double dot ( .. ) and single dot ( . ) in Unix and Linux?
+● What are the absolute and relative paths?
+● Install “tree” command on your terminal
