@@ -1,7 +1,7 @@
 - Create a file, named man_ls.txt under MAN_PAGES folder, in EXERCISES directory, consists of the
 man page of the ls command (hint: use redirection).
 - Create the similar man pages for the commands:
-man, info, pwd, mkdir, rmdir, rm, cp, mv, cat, echo …
+man, info, pwd, mkdir, rmdir, rm, cp, mv, cat, echo
 - Create a file, named:
 this is a test file.txt
 - Create multiple successive files with one command.
