@@ -8,15 +8,15 @@ this is a test file.txt
 file0.txt … file100.txt
 - Create multiple successive folders with one command.
 foldera … folderz
-- Delete files from file0.txt to file9.txt with one command (hint: use a wildcard).
-- Delete all the files and folders in the current directory with a wildcard character.
+- Delete files from file0.txt to file9.txt with one command (hint: use a wildcard)
+- Delete all the files and folders in the current directory with a wildcard character
 Exercises
 - Show all the commands you’ve run.
 - Clear the history of your commands.
-- Clear the screen (try different methods).
+- Clear the screen (try different methods)
 - Print your current working directory to “pwd.txt” file.
 - Create a file which consists the contents of your current folder in detail (hint: think simple, use prior
-knowledge).
+knowledge)
 Homework
 ● What is double dot ( .. ) and single dot ( . ) in Unix and Linux?
 ● What are the absolute and relative paths?
